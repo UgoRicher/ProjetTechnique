@@ -19,6 +19,6 @@ Assurez-vous d'avoir les outils suivants installés et configurés :
    git clone https://github.com/UgoRicher/ProjetTechnique.git
    cd ProjetTechnique
 
-##Interface Graphique
+## Interface Graphique
 
 Après avoir run le code, cliquer sur ce lien : https://3297-34-85-133-139.ngrok-free.app pour visualiser l'interface
