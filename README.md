@@ -16,3 +16,4 @@ Assurez-vous d'avoir les outils suivants installés et configurés :
 
    ```bash
    git clone https://github.com/UgoRicher/ProjetTechnique.git
+   cd ProjetTechnique
