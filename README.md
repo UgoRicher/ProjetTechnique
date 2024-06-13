@@ -9,6 +9,7 @@ Ce projet utilise Flask pour créer une interface web permettant de prédire les
 Assurez-vous d'avoir les outils suivants installés et configurés :
 - [Google Colab](https://colab.research.google.com/) ou un environnement local avec Python installé.
 - [ngrok](https://ngrok.com/) pour exposer l'application Flask.
+-  [Tableau](https://www.tableau.com/) pour visualiser le dashboard.
 
 ## Installation
 
@@ -17,3 +18,7 @@ Assurez-vous d'avoir les outils suivants installés et configurés :
    ```bash
    git clone https://github.com/UgoRicher/ProjetTechnique.git
    cd ProjetTechnique
+
+##Interface Graphique
+
+Après avoir run le code, cliquer sur ce lien : https://3297-34-85-133-139.ngrok-free.app pour visualiser l'interface
