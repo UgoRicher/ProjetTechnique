@@ -15,4 +15,4 @@ Assurez-vous d'avoir les outils suivants installés et configurés :
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone UgoRicher/ProjetTechnique
+   git clone https://github.com/UgoRicher/ProjetTechnique.git
