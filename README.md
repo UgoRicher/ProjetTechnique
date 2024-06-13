@@ -15,5 +15,4 @@ Assurez-vous d'avoir les outils suivants installés et configurés :
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone <URL_DE_VOTRE_DEPOT_GIT>
-   cd <NOM_DU_REPERTOIRE>
+   git clone UgoRicher/ProjetTechnique
